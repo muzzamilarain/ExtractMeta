@@ -4,7 +4,7 @@ This Python script extracts and displays EXIF metadata from image files, includi
 
 ---
 
-![Screenshot] ![Image](<!-- Uploading "Screenshot From 2025-05-19 20-22-36.png"... -->)
+![Screenshot] ![Image](https://github.com/user-attachments/assets/e4dfc9e9-6b04-41a3-9324-bc1ae39f9f87)
 
 ## 🔧 Features
 
