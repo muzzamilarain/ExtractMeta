@@ -4,6 +4,8 @@ This Python script extracts and displays EXIF metadata from image files, includi
 
 ---
 
+<!-- Uploading "Screenshot From 2025-05-19 20-22-36.png"... -->
+
 ## 🔧 Features
 
 - Extracts common EXIF fields like:
