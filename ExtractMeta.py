@@ -7,7 +7,7 @@ from PIL.ExifTags import TAGS, GPSTAGS
 print(colored(figlet_format("ExtractMeta", font="banner"), "red"))
 print(colored("Get Your Favorite Data...", "blue"))
 print(colored(figlet_format("By Muzzamil Arain", font="digital")))
-print(colored("LinkedIn: muzzamil-sadiq-7195b2258", "yellow"))
+print(colored("LinkedIn: muzzamil-sadiq-7195b2258\t \t Github: github.com/muzzamilarain\n" , "yellow"))
 
 
 def format_gps_info(gps_info):
