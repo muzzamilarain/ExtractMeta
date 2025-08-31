@@ -21,7 +21,14 @@ This Python script extracts and displays EXIF metadata from image files, includi
 
 ## 🚀 How to Use
 
-1. **Install dependencies**  
+1. **Clone using git**  
+   ```bash
+   git clone https://github.com/muzzamilarain/ExtractMeta
+
+2. **Go to Directory**
+   '''cd ExtractMeta
+   
+4. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
 Than run py file with python3
